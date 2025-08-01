@@ -28,11 +28,6 @@ To design and deploy a **watsonx-powered intelligent agent** that interacts with
 
 
 
-## 📄 Final Presentation:
-[Click here to view the final project presentation (PDF)](./IBM_Intern_Project.pdf)
-
-
-
 ## 👤 Author:
 **Rohitha Kavala**  
 IBM SkillsBuild Internship – July 2025
