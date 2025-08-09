@@ -26,6 +26,7 @@ To design and deploy a **watsonx-powered intelligent agent** that interacts with
 - The agent responds to user queries and suggests appropriate learning paths.
 - Demonstrated accuracy, context-awareness, and real-time functionality during testing.
 
+<img width="1436" height="758" alt="image" src="https://github.com/user-attachments/assets/c805f7f8-d1e2-4fe4-a119-2180de53ef89" />
 
 
 ## 👤 Author:
